@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515127477 source:m:\document\mycode\algtrain\pat1003\main.cpp
+	<stdio.h>
+	<iostream>
+	<string>
+
