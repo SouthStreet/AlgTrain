@@ -51,6 +51,7 @@ Temporary Items
 *.ldb
 *.sln
 *.config
+*.opensdf
 
 
 #过滤文件夹Debug,Release,obj
