@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <string.h>
+#include <algorithm>
 
+using namespace std;
 
 int main(){
-	char strA[10];
-	char strB[10];
-
+	char str[10];
 	
 
 	return 0;
